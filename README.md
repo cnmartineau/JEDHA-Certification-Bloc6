@@ -1,7 +1,5 @@
 # Bloc 6 - Direction de projets de gestion de données - Mainterprete
 
-[Presentation video](https://share.vidyard.com/watch/pSwf2sSdvVuZwA4eKsLF7U?)
-
 Application: https://mainterprete.herokuapp.com
 
 ### Project
